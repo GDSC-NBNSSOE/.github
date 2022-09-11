@@ -1,6 +1,6 @@
 # GOOGLE DEVELOPERS STUDENTS CLUB - NBN SSOE
 
-<img src=["coverphoto.png"](https://raw.githubusercontent.com/GDSC-NBNSSOE/.github/master/profile/coverphoto.png) alt="commit" style="width:100%;">
+<img src="https://github.com/GDSC-NBNSSOE/.github/blob/master/profile/coverphoto.png" style="width:100%;">
 
 
 <h2> hello world , this is Google Developers Students Club , NBN sinhgad College of Engineering . </h2>
