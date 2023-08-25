@@ -6,9 +6,7 @@
 <h2> hello world , this is Google Developers Students Club , NBN sinhgad College of Engineering . </h2>
 
 ## Meet the team : 
-- ### Ishwari Kulkarni (GDSC Lead) 
-- ### Ankit (ML expert )
-- ### Aryan Kathawale (Web lead and Github maintainer )
+- ### Ankit Kokane - GDSC Lead 
 
 
 
